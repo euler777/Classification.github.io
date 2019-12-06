@@ -9,8 +9,6 @@ Main goal: We study 3 most widely-used classification methods: logistic regressi
 
 # R
 ```markdown
-# Loading Libraries and Stock Market Data
-
 # The Stock Market Data
 
 library(ISLR)
